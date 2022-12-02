@@ -1,6 +1,3 @@
-from itertools import permutations
-
-
 FILENAME = '2.in'
 # A maps to Rock
 # B maps to Paper
