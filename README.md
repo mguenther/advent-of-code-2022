@@ -4,6 +4,8 @@ This repository contains my solutions for the Advent of Code season 2022. My pro
 
 The solution for day 21 requires [SymPy](https://www.sympy.org/en/index.html).
 
+I did not bother to do day 22 properly, so there is no code for it.
+
 ## License
 
 This work is released under the terms of the Apache 2.0 license.
